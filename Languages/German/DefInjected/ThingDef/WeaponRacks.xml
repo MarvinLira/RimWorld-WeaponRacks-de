@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WeaponRacks_2Rack.label>Waffenständer (2 Slots)</WeaponRacks_2Rack.label>
+  <WeaponRacks_2Rack.description>Ein Waffenständer zum Präsentieren von Waffen auf eine ästhetische Weise. Waffenständer können schnell beladen werden und erlauben es dir, die verfügbaren Waffen auf einen Blick zu sehen. Allerdings haben sie nicht so viel Kapazität wie ein Waffenschrank.\n\nDieser spezielle Waffenständer kann nur zwei Waffen tragen, aber er erlaubt schwerere Waffen als die anderen Waffenständer. Er kann die Waffen zudem über Kreuz halten.</WeaponRacks_2Rack.description>
+
+  <WeaponRacks_3Rack.label>Waffenständer (3 Slots)</WeaponRacks_3Rack.label>
+  <WeaponRacks_3Rack.description>Ein Waffenständer zum Präsentieren von Waffen auf eine ästhetische Weise. Waffenständer können schnell beladen werden und erlauben es dir, die verfügbaren Waffen auf einen Blick zu sehen. Allerdings haben sie nicht so viel Kapazität wie ein Waffenschrank.\n\nDieser spezielle Waffenständer kann bis zu drei Waffen in horizontaler oder vertikaler Ausrichtung tragen.</WeaponRacks_3Rack.description>
+
+  <WeaponRacks_4Rack.label>Waffenständer (4 Slots)</WeaponRacks_4Rack.label>
+  <WeaponRacks_4Rack.description>Ein Waffenständer zum Präsentieren von Waffen auf eine ästhetische Weise. Waffenständer können schnell beladen werden und erlauben es dir, die verfügbaren Waffen auf einen Blick zu sehen. Allerdings haben sie nicht so viel Kapazität wie ein Waffenschrank.\n\nDieser spezielle Waffenständer kann bis zu vier Waffen in horizontaler oder vertikaler Ausrichtung tragen, aber er erlaubt nur ein etwas geringeres Gewicht pro Waffe.</WeaponRacks_4Rack.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <WeaponRack_ModName>Waffenständer</WeaponRack_ModName>
+
+  <WeaponRack_Orientation>Ausrichtung</WeaponRack_Orientation>
+  <WeaponRack_OrientationDesc>Präsentiert die gelagerten Waffen horizontal oder vertikal.</WeaponRack_OrientationDesc>
+  <WeaponRack_Offset>Versatz</WeaponRack_Offset>
+  <WeaponRack_OffsetDesc>Versetzt die Reihe von Waffen, wenn diese horizontal präsentiert werden.</WeaponRack_OffsetDesc>
+  <WeaponRack_FillOrder>Befüllreihenfolge</WeaponRack_FillOrder>
+  <WeaponRack_FillOrderDesc>Die Reihenfolge, in der die Slots in diesem Waffenständer befüllt werden.</WeaponRack_FillOrderDesc>
+
+  <WeaponRack_AdjustmentSearch>Suche Defs:</WeaponRack_AdjustmentSearch>
+  <WeaponRack_AdjustmentSearchNoResults>(keine Ergebnisse)</WeaponRack_AdjustmentSearchNoResults>
+  <WeaponRack_AdjustmentRemove>Entfernen</WeaponRack_AdjustmentRemove>
+  <WeaponRack_AdjustmentReset>Zurücksetzen</WeaponRack_AdjustmentReset>
+
+  <WeaponRack_AdjustmentUnloaded>(Nicht geladen)</WeaponRack_AdjustmentUnloaded>
+  <WeaponRack_AdjustmentUnloadedDesc>Dieser Anpassungseintrag ist für ein ThingDef, das nicht geladen ist und nicht angepasst werden kann.</WeaponRack_AdjustmentUnloadedDesc>
+  <WeaponRack_AdjustmentSizeFactor>Größenfaktor: {0}%</WeaponRack_AdjustmentSizeFactor>
+  <WeaponRack_AdjustmentHorizontalOffset>Horizontaler Versatz: {0}</WeaponRack_AdjustmentHorizontalOffset>
+  <WeaponRack_AdjustmentVerticalOffset>Vertikaler Versatz: {0}</WeaponRack_AdjustmentVerticalOffset>
+  <WeaponRack_AdjustmentHorizontalRotation>Horizontale Rotation: {0}°</WeaponRack_AdjustmentHorizontalRotation>
+  <WeaponRack_AdjustmentVerticalRotation>Vertikale Rotation: {0}°</WeaponRack_AdjustmentVerticalRotation>
+
+</LanguageData>
